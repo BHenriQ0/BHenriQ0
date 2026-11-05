@@ -101,16 +101,6 @@ style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 
 <br clear="both">
 
-### 📊 Estatísticas
-
-
-<img
-  align="left"
-  alt="Estatísticas do GitHub"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=BHenriQ0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
 
 
           
